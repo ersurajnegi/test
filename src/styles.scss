@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+.ng-touched.ng-invalid {
+    border-color: red;
+}
+
+@import "~bootstrap/scss/bootstrap";
+// @import '~bootstrap/scss/functions',
+// '~bootstrap/scss/variables',
+// '~bootstrap/scss/mixins',
+// '~bootstrap/scss/type',
+// '~bootstrap/scss/buttons',
+// '~bootstrap/scss/button-group',
+// '~bootstrap/scss/utilities',
+// '~bootstrap/scss/grid',
+// '~bootstrap/scss/tables',
+// '~bootstrap/scss/dropdown',
+// '~bootstrap/scss/forms';
